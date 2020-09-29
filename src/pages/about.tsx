@@ -9,7 +9,7 @@ export default function About() {
     <div>
         <Layout headerTitle="About Us Page">
             About Page
-            <div className={styles.blueBackGround}>I am doing it for test</div>
+            <div className={styles.blueBackGround}>There is some more test that has to happen</div>
         </Layout>
     </div>
   );
